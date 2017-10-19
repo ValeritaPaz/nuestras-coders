@@ -1,0 +1,88 @@
+body {
+	font-family: 'Quattrocento', serif;
+}
+hr {
+	margin-top: 0;
+	margin-left: 1%;
+	padding-top: .3%;
+	background: black;
+	width: 5.5%;
+	display: inline-block;
+}
+/*.linea {
+	padding-top: .3%;
+	background: black;
+	margin-left: 1%;
+	display: inline-block;
+}*/
+h2 {
+	margin-bottom:  .5%;
+	margin-left: 1%;
+}
+.primeras img {
+	width: 15%;
+	height: 15%;
+	/*border: 1px solid black;*/
+	margin: 1%;
+	float: left;
+}
+.foto1 p {
+	color: white;
+	display: inline-block;
+	position: absolute;
+	top: 35%;
+	left: 9%;
+	/*background: red;*/
+}
+.foto2 p {
+	color: white;
+	display: inline-block;
+	position: absolute;
+	top: 35%;
+	left: 23%;
+	/*background: red;*/
+}
+.foto3 p {
+	color: white;
+	display: inline-block;
+	position: absolute;
+	top: 35%;
+	left: 41%;
+	/*background: red;*/
+}
+.segundas img {
+	width: 15%;
+	height: 15%;
+	/*border: 1px solid black;*/
+	margin: 1%;
+	float: left;
+}
+.foto4 {
+	clear: left;
+}
+.foto4 p {
+	color: white;
+	display: inline-block;
+	position: absolute;
+	top: 67%;
+	left: 13%;
+	/*background: red;*/
+}
+.foto5 p {
+	color: white;
+	display: inline-block;
+	position: absolute;
+	top: 67%;
+	left: 25%;
+	/*background: red;*/
+}
+.foto6 p {
+	color: white;
+	display: inline-block;
+	position: absolute;
+	top: 67%;
+	left: 44%;
+	/*background: red;*/
+}
+
+
